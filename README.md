@@ -3,7 +3,7 @@
 An interactive, web-based video archive built from personal camera roll footage. The more you engage with it, the less legible it becomes.
 
 ## Try it here!
-**[Live demo](https://oceanedaumasson.github.io/cart210_Final)**
+**[Live demo](https://oceanedaumasson.github.io/Against-Access)**
 
 ## Screenshots
 ![Screenshot of the project](screenshots/gallery1.png)
